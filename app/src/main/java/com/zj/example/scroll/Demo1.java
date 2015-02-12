@@ -12,8 +12,6 @@ import android.widget.TextView;
  * scrollBy是在现在的位置基础上移动多少距离
  * scrollTo是直接移動到什麼地方
  *
- * ScrollBy和ScrollTo是
- *
  * create by zhengjiong
  * Date: 2015-01-01
  * Time: 10:10
